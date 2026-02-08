@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+body{
+	border:1px solid black;
+	margin:20px;
+}
+.border{
+	background-color:light blue;
+	border:15px solid blue;
+	margin:20px;
+	
+}
+.p{
+	width:300px;
+	padding:50px;
+}
+	
+	
+}
