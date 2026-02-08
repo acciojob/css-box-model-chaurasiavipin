@@ -1,16 +1,18 @@
 body{
+	background-color:lightblue;
 	border:1px solid black;
 	margin:20px;
-}
+
 .border{
-	background-color:lightblue;
+	
 	border:15px solid blue;
 	margin:20px;
 	
 }
 .p{
-	width:300px;
 	padding:50px;
+	width:300px;
+	
 }
 	
 
